@@ -1,3 +1,4 @@
+// saare inputs and button ko as a variable use karna h
 const lengthp = document.querySelector('#length-number');
 const upper = document.querySelector('#uppercase');
 const lower = document.querySelector('#lowercase');
